@@ -2,6 +2,12 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "header": "libs/header",
+    "header-e2e": "apps/header-e2e",
+    "landing": "apps/landing",
+    "landing-e2e": "apps/landing-e2e",
+    "mobile": "apps/mobile",
+    "mobile-e2e": "apps/mobile-e2e",
     "web": "apps/web",
     "web-e2e": "apps/web-e2e"
   }
